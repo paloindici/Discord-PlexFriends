@@ -2,6 +2,7 @@
 /.DockerMakeLatest.bat
 /Dockerfile
 /PlexFriendsLogo.psd
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -133,3 +134,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /config/
+=======
+>>>>>>> parent of 5d78a82 (Initial push)
