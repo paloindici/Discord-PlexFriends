@@ -1,0 +1,26 @@
+[
+    {
+        "txn_id": "60V69434B59998510",
+        "status": "Completed",
+        "buyer_email": "janais5225@gmail.com",
+        "buyer_id": "807566239357730838",
+        "recurring": true,
+        "price": "0.01",
+        "currency": "EUR",
+        "timestamp": 1664100496,
+        "seller_customs": {},
+        "role_id": "1023524111512784966"
+    },
+    {
+        "txn_id": "5LK98709MG867100V",
+        "status": "Completed",
+        "buyer_email": "larrour.fabien@outlook.fr",
+        "buyer_id": "438414384872816650",
+        "recurring": true,
+        "price": "0.01",
+        "currency": "EUR",
+        "timestamp": 1664120266,
+        "seller_customs": {},
+        "role_id": "1023524111512784966"
+    }
+]
