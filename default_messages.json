@@ -1,0 +1,118 @@
+{
+  "ask_for_email": {
+    "title": "Plex Share Invite",
+    "message": "Please provide your Plex account email address to be invited to share, by replying to this message.\nnThis request will expire in 1 hour"
+  },
+  "email_success": {
+    "title": "Invite Sent",
+    "message": "Check your Plex account for a friend request.\nA welcome message with important information will be sent to you by private message"
+  },
+  "invalid_email": {
+    "title": "Invalid Email Provided",
+    "message": "Please reply with a valid email address"
+  },
+  "email_timeout": {
+    "title": "Plex Invite Timeout",
+    "message": "No valid email was provided within 1 hours, please contact a server administrator to be re-invited"
+  },
+  "email_in_use": {
+    "title": "Email In Use",
+    "message": "This email is already in use by another user on this server, please contact your administrator"
+  },
+  "dm_cancelled": {
+    "title": "DM Cancelled",
+    "message": "Your registration has been canceled"
+  },
+  "delete_account": {
+    "title": "Access delete",
+    "message": "Your access to the Plex server has been removed"
+  },
+  "delete_account_admin": {
+    "title": "Access delete",
+    "message": "This user has been removed"
+  },
+  "database_content": {
+    "title": "Database content",
+    "message": "Member name - Member id - Member email\n\n"
+  },
+  "welcome_message": {
+    "title": "Welcome !",
+    "message": "Welcome to **Plex**!\nFor any questions, you can contact me on Discord\n\nGood viewing !"
+  },
+  "trial_in_progress": {
+    "title": "Preparation for trial period",
+    "message": "Preparation for the trial subscription... Please wait..."
+  },
+  "end_trial": {
+    "title": "End of trial subscription",
+    "message": "The trial period is over. If the content has you more, you can take out a subscription."
+  },
+  "already_tested": {
+    "title": "Already tested",
+    "message": "You have already tested the subscription for free. You cannot test more than once."
+  },
+  "never_tested": {
+    "title": "Never tested",
+    "message": "This user never did the trial period"
+  },
+  "unauthorized": {
+    "title": "Unauthorized",
+    "message": "You do not have permission to use this command. Administrator only"
+  },
+  "launch_trial": {
+    "title": "Launch trial period",
+    "message": "Launch of the trial period.\nWatch your discord private messages !"
+  },
+  "not_in_db": {
+    "title": "Not in Database",
+    "message": "This user is not in the database"
+  },
+  "reset_trial": {
+    "title": "Trial period reset",
+    "message": "Trial period for this user has been reset"
+  },
+  "confirm_send_welcome": {
+    "title": "Success !",
+    "message": "The welcome message has been sent"
+  },
+  "subscription_in_progress": {
+    "title": "Subscription",
+    "message": "Subscription request taken into account.\nGo to your private messages to continue!"
+  },
+  "subscription1": {
+    "title": "Subscription",
+    "message": "To start, you need to choose the Plex libraries you want to have access to."
+  },
+  "subscription2": {
+    "title": "Subscription",
+    "message": "To take out a new subscription, click [here](https://yourDonateUrl.me)"
+  },
+  "select_lib_timeout": {
+    "title": "Library Select Timeout",
+    "message": "You took too long to respond. Start your subscription request again"
+  },
+  "current_subscriptions": {
+    "title": "Current Subscriptions",
+    "message": "User - End Date\n\n"
+  },
+  "pre_end_subscription": {
+    "title": "Subscription coming to an end",
+    "message": "Your Plex subscription is about to expire in 2 days.\nRenew it now to keep access."
+  },
+  "end_subscription": {
+    "title": "Expired subscription",
+    "message": "Your Plex subscription has expired."
+  },
+  "private_new_trial": {
+    "title": "New trial subscription",
+    "message": "New trial period request for <member>"
+  },
+  "private_new_subscription": {
+    "title": "New monthly subscription",
+    "message": "New monthly subscription for <member>"
+  },
+  "private_end_subscription": {
+    "title": "End of monthly subscription",
+    "message": "End of monthly subscription for <member>"
+  }
+}

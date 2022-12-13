@@ -1,0 +1,4 @@
+/.dockerignore
+/.DockerMakeLatest.bat
+/Dockerfile
+/PlexFriendsLogo.psd
